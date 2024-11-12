@@ -40,6 +40,6 @@ class MainActivity : AppCompatActivity() {
                 b += 2
             }
             textView.text = result.toString()
-        }
+        }//0
     }
 }
